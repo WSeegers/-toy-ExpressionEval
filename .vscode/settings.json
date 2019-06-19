@@ -1,0 +1,7 @@
+{
+    "cmake.cmakePath": "/goinfre/wseegers/.brew/bin/cmake",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "exception": "cpp"
+    }
+}
